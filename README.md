@@ -4,10 +4,9 @@ Hello, I'm an iOS developer. 👋 <br>I like to create and modify applications.
 
 # 💻 Tech Stack:
 
-<img src="https://github.com/devicons/devicon/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
-
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="CLanguage" alt="CLanguage" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="CPlusPlus" alt="CPlusPlus" width="40" height="40"/>&nbsp;
 
 </div>
 
