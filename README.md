@@ -4,7 +4,7 @@ Hello, I'm an iOS developer. 👋 <br>I like to create and modify applications.
 
 # 💻 Tech Stack:
 
-<table>
+<!-- <table>
 <tr>
 <th> Languages </th>
 <th> Database </th>
@@ -35,7 +35,7 @@ Hello, I'm an iOS developer. 👋 <br>I like to create and modify applications.
 </td>
 
 </tr>
-</table>
+</table> -->
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) 
